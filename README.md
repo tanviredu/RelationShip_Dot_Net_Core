@@ -1,2 +1,2 @@
-# NARSING
-https://cursa.app/en/course/nursing-pharmacology-by-level-up-rn
+## Narsing Easy
+https://cursa.app/en/course/nursing-fundamentals-by-level-up-rn
