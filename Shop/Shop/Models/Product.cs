@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Shop.Models
+{
+    public class Product
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public Decimal Values { get; set; }
+        public ICollection<Stock> Stocks { get; set; }
+        public ICollection<Order> Orders { get; set; }
+    }
+}
